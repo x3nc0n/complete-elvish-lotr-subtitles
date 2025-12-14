@@ -2802,12 +2802,12 @@ no need to ride to war.
 
 664
 01:09:38,947 --> 01:09:42,363
-I fear war already marches 
+I fear war already marches
 on their own lands.
 
 665
 01:10:00,808 --> 01:10:04,434
-So it is before the walls 
+So it is before the walls
 of Minas Tirith...
 
 666
@@ -2971,7 +2971,7 @@ Gandalf...
 
 704
 01:14:35,912 --> 01:14:38,401
-...they're taking the road 
+...they're taking the road
 to the Morgul Vale.
 
 705
@@ -3065,7 +3065,7 @@ lordly and gracious...
 
 726
 01:15:56,834 --> 01:16:00,584
-Boromir would have remembered 
+Boromir would have remembered
 his father's need.
 
 727
@@ -3233,7 +3233,7 @@ Mithrandir.
 
 767
 01:19:57,140 --> 01:20:01,006
-Courage is the best defense 
+Courage is the best defense
 that you have now.
 
 768
@@ -3327,7 +3327,7 @@ But strong.
 
 789
 01:21:17,020 --> 01:21:20,187
-I think you have strength 
+I think you have strength
 of a different kind.
 
 790
@@ -3394,7 +3394,7 @@ abandon the outer defenses...
 
 805
 01:22:26,804 --> 01:22:30,095
-...defenses that your brother 
+...defenses that your brother
 long held intact.
 
 806
@@ -3549,1463 +3549,1523 @@ It's gone!
 That's all we have left.
 
 842
-01:26:24,225 --> 01:26:26,717
-He took it. He must have!
+01:26:24,271 --> 01:26:25,560
+He took it.
 
 843
-01:26:27,019 --> 01:26:30,270
-Smeagol? No, no, not poor Smeagol.
+01:26:25,921 --> 01:26:27,314
+He must have!
 
 844
-01:26:30,295 --> 01:26:33,213
-Smeagol hates nasty Elf bread.
+01:26:27,339 --> 01:26:30,659
+Smeagol? No, no, not poor Smeagol.
 
 845
-01:26:33,382 --> 01:26:36,548
-You're a lying rat! What did you do with it?!
+01:26:30,684 --> 01:26:33,602
+Smeagol hates nasty Elf bread.
 
 846
-01:26:36,718 --> 01:26:38,260
-He doesn't eat it.
+01:26:33,796 --> 01:26:36,693
+You're a lying rat!
+What did you do with it?!
 
 847
+01:26:37,151 --> 01:26:38,693
+He doesn't eat it.
+
+848
 01:26:39,263 --> 01:26:41,587
 - He can't have taken it.
 - Look.
 
-848
-01:26:42,640 --> 01:26:44,468
+849
+01:26:42,993 --> 01:26:44,821
 What's this?
 
-849
-01:26:47,145 --> 01:26:50,479
+850
+01:26:47,532 --> 01:26:50,978
 Crumbs on his jacketses. He took it!
 
-850
-01:26:51,190 --> 01:26:52,851
+851
+01:26:51,556 --> 01:26:53,217
 He took it.
 
-851
-01:26:53,693 --> 01:26:57,903
+852
+01:26:54,007 --> 01:26:58,047
 I seen him. He's always stuffing
 his face when master's not looking.
 
-852
+853
 01:26:58,072 --> 01:26:59,864
 That's a filthy lie!
 
-853
-01:27:00,032 --> 01:27:02,239
+854
+01:27:00,349 --> 01:27:02,556
 You stinking, two-faced sneak!
 
-854
-01:27:02,409 --> 01:27:03,655
+855
+01:27:02,697 --> 01:27:04,514
 - Sam!
 - Call me...
 
-855
-01:27:03,828 --> 01:27:05,073
+856
+01:27:04,609 --> 01:27:05,691
 Stop it!
 
-856
-01:27:06,080 --> 01:27:07,278
+857
+01:27:06,626 --> 01:27:07,824
 Sam!
 
-857
-01:27:08,582 --> 01:27:12,199
+858
+01:27:09,215 --> 01:27:12,832
 - I'll kill him!
 - Sam! No!
 
-858
-01:27:13,253 --> 01:27:18,793
+859
+01:27:13,694 --> 01:27:18,942
 Oh, my... I'm sorry. I didn't mean it
 to go so far. I was just so... So angry.
 
-859
-01:27:18,967 --> 01:27:21,090
+860
+01:27:19,407 --> 01:27:21,530
 Here, just... Let's
 just rest a bit.
 
-860
-01:27:21,261 --> 01:27:23,337
+861
+01:27:21,701 --> 01:27:23,777
 - I'm all right.
 - No.
 
-861
-01:27:23,513 --> 01:27:26,597
+862
+01:27:23,802 --> 01:27:26,886
 No, you're not all right. You're exhausted.
 
-862
-01:27:26,765 --> 01:27:28,888
+863
+01:27:27,311 --> 01:27:29,434
 It's that Gollum.
 
-863
-01:27:29,059 --> 01:27:30,768
+864
+01:27:29,459 --> 01:27:31,168
 It's this place.
 
-864
-01:27:30,936 --> 01:27:33,509
+865
+01:27:31,469 --> 01:27:34,042
 It's that thing around your neck.
 
-865
-01:27:37,027 --> 01:27:38,307
+866
+01:27:37,474 --> 01:27:38,754
 I could help a bit.
 
-866
-01:27:38,486 --> 01:27:41,154
+867
+01:27:39,063 --> 01:27:41,512
 I could carry it for a while.
 
-867
-01:27:41,322 --> 01:27:43,065
+868
+01:27:41,537 --> 01:27:43,280
 Carry it for a while.
 
-868
-01:27:43,240 --> 01:27:44,485
+869
+01:27:43,398 --> 01:27:44,929
 I could carry it... I could carry it.
 
-869
-01:27:45,117 --> 01:27:50,573
+870
+01:27:45,510 --> 01:27:50,722
 Share the load... Share the
 load... the load... the load.
 
-870
-01:27:50,747 --> 01:27:51,947
+871
+01:27:51,053 --> 01:27:52,253
 Get away!
 
-871
-01:27:52,125 --> 01:27:53,701
+872
+01:27:52,397 --> 01:27:53,973
 I don't want to keep it.
 
-872
-01:27:57,296 --> 01:27:59,287
+873
+01:27:57,716 --> 01:27:59,707
 I just want to help.
 
-873
-01:28:01,341 --> 01:28:03,963
+874
+01:28:01,635 --> 01:28:04,257
 See? See?
 
-874
-01:28:04,135 --> 01:28:07,551
+875
+01:28:04,435 --> 01:28:07,851
 He wants it for himself.
 
-875
-01:28:07,723 --> 01:28:09,430
+876
+01:28:08,136 --> 01:28:09,843
 Shut up, you!
 
-876
-01:28:09,974 --> 01:28:11,801
+877
+01:28:10,347 --> 01:28:12,174
 Go away! Get out of here!
 
-877
-01:28:11,976 --> 01:28:13,803
+878
+01:28:12,375 --> 01:28:14,202
 No, Sam.
 
-878
-01:28:13,978 --> 01:28:15,223
+879
+01:28:14,557 --> 01:28:15,802
 It's you.
 
-879
-01:28:19,442 --> 01:28:21,149
+880
+01:28:19,742 --> 01:28:21,449
 I'm sorry, Sam.
 
-880
-01:28:22,820 --> 01:28:24,194
+881
+01:28:23,033 --> 01:28:24,407
 But he's a liar.
 
-881
-01:28:24,362 --> 01:28:27,032
+882
+01:28:24,728 --> 01:28:27,398
 He's poisoned you against me.
 
-882
-01:28:28,451 --> 01:28:30,359
+883
+01:28:28,704 --> 01:28:30,612
 You can't help me anymore.
 
-883
-01:28:32,329 --> 01:28:34,202
+884
+01:28:32,788 --> 01:28:34,661
 You don't mean that.
 
-884
-01:28:36,709 --> 01:28:38,499
+885
+01:28:37,176 --> 01:28:38,966
 Go home.
 
-885
-01:29:58,537 --> 01:30:00,328
-Faramir!
-
 886
-01:30:00,497 --> 01:30:02,406
+01:29:58,963 --> 01:30:00,754
 Faramir!
 
 887
-01:30:03,917 --> 01:30:05,957
-Your father's will has turned to madness.
+01:30:01,050 --> 01:30:02,959
+Faramir!
 
 888
-01:30:07,127 --> 01:30:09,167
-Do not throw away your life so rashly.
+01:30:04,344 --> 01:30:06,384
+Your father's will has turned to madness.
 
 889
-01:30:09,922 --> 01:30:12,248
-Where does my allegiance lie if not here?
+01:30:07,493 --> 01:30:09,533
+Do not throw away your life so rashly.
 
 890
-01:30:12,884 --> 01:30:15,802
-This is the city of the Men of Numenor.
+01:30:10,395 --> 01:30:12,721
+Where does my allegiance lie if not here?
 
 891
-01:30:16,429 --> 01:30:19,216
-I will gladly give my life to defend her beauty...
+01:30:13,302 --> 01:30:16,220
+This is the city of the Men of Numenor.
 
 892
-01:30:19,390 --> 01:30:22,593
-her memory, her wisdom.
+01:30:17,037 --> 01:30:19,824
+I will gladly give my life
+to defend her beauty...
 
 893
-01:30:24,978 --> 01:30:28,395
-Your father loves you, Faramir.
+01:30:20,016 --> 01:30:23,219
+...her memory, her wisdom.
 
 894
-01:30:29,108 --> 01:30:32,109
-He will remember it before the end.
+01:30:25,424 --> 01:30:27,905
+Your father loves you, Faramir.
 
 895
-01:31:41,719 --> 01:31:43,261
-Can you sing, Master Hobbit?
+01:30:29,714 --> 01:30:32,322
+He will remember it before the end.
 
 896
-01:31:46,244 --> 01:31:47,738
-Well...
+01:31:42,199 --> 01:31:43,741
+Can you sing, Master Hobbit?
 
 897
-01:31:48,288 --> 01:31:49,912
-yes.
+01:31:46,597 --> 01:31:48,091
+Well...
 
 898
-01:31:50,624 --> 01:31:54,371
-At least, well enough for my own people.
+01:31:48,614 --> 01:31:50,238
+...yes.
 
 899
-01:31:56,004 --> 01:31:58,411
-But we have no songs for great halls...
+01:31:51,010 --> 01:31:52,305
+At least...
 
 900
-01:31:59,465 --> 01:32:00,710
-and evil times.
+01:31:52,330 --> 01:31:54,032
+...well enough for my own people.
 
 901
-01:32:01,550 --> 01:32:04,717
-And why should your songs be unfit for my halls?
+01:31:56,390 --> 01:31:58,797
+But we have no songs for great halls and...
 
 902
-01:32:07,514 --> 01:32:08,925
-Come, sing me a song.
+01:31:59,805 --> 01:32:01,050
+...evil times.
 
 903
-01:32:19,986 --> 01:32:23,318
-Home is behind
+01:32:01,903 --> 01:32:05,070
+And why should your
+songs be unfit for my halls?
 
 904
-01:32:23,487 --> 01:32:27,236
-The world ahead
+01:32:07,874 --> 01:32:09,450
+Come, sing me a song.
 
 905
-01:32:29,661 --> 01:32:35,496
-And there are many paths to tread
+01:32:20,305 --> 01:32:23,637
+Home is behind
 
 906
-01:32:37,292 --> 01:32:40,827
-Through shadow
+01:32:23,846 --> 01:32:27,595
+The world ahead
 
 907
-01:32:41,004 --> 01:32:45,168
-To the edge of night
+01:32:29,890 --> 01:32:35,725
+And there are many paths to tread
 
 908
-01:32:46,844 --> 01:32:51,921
-Until the stars are all alight
+01:32:37,650 --> 01:32:41,185
+Through shadow
 
 909
-01:32:54,935 --> 01:32:59,263
-Mist and shadow
+01:32:41,210 --> 01:32:45,374
+To the edge of night
 
 910
-01:32:59,439 --> 01:33:03,732
-Cloud and shade
+01:32:47,230 --> 01:32:53,755
+Until the stars are all alight
 
 911
-01:33:06,112 --> 01:33:09,446
-All shall fade
+01:32:55,086 --> 01:32:59,693
+Mist and shadow
 
 912
-01:33:11,826 --> 01:33:15,823
-All shall
+01:32:59,718 --> 01:33:04,731
+Cloud and shade
 
 913
-01:33:21,586 --> 01:33:23,958
-Fade
+01:33:06,438 --> 01:33:09,772
+All shall fade
 
 914
-01:33:48,361 --> 01:33:51,812
-March! March!
+01:33:11,845 --> 01:33:16,693
+All shall
 
 915
-01:33:51,989 --> 01:33:57,197
-March! March! March!
+01:33:21,958 --> 01:33:23,474
+Fade
 
 916
-01:34:00,666 --> 01:34:02,991
-Make way for the king.
+01:33:48,440 --> 01:33:51,891
+March! March!
 
 917
-01:34:04,502 --> 01:34:06,493
-Make way.
+01:33:52,249 --> 01:33:57,457
+March! March! March!
 
 918
-01:34:08,963 --> 01:34:11,003
-The king is here.
+01:34:01,145 --> 01:34:03,470
+Make way for the king.
 
 919
-01:34:12,968 --> 01:34:14,593
-My lord.
+01:34:04,729 --> 01:34:06,720
+Make way.
 
 920
-01:34:15,847 --> 01:34:17,803
-Hail to you, sire.
+01:34:09,236 --> 01:34:11,276
+The king is here.
 
 921
-01:34:18,266 --> 01:34:19,462
-Grimbold, how many?
+01:34:13,181 --> 01:34:14,806
+My lord.
 
 922
-01:34:19,641 --> 01:34:22,096
-I bring 500 men from the Westfold, my lord.
+01:34:16,153 --> 01:34:18,109
+Hail to you, sire.
 
 923
-01:34:23,061 --> 01:34:25,730
-We have 300 more from Fenmarch, Theoden King.
+01:34:18,679 --> 01:34:19,875
+Grimbold, how many?
 
 924
-01:34:26,856 --> 01:34:30,806
+01:34:19,900 --> 01:34:22,355
+I bring 500 men from the Westfold, my lord.
+
+925
+01:34:23,501 --> 01:34:26,170
+We have 300 more from
+Fenmarch, Theoden King.
+
+926
+01:34:27,216 --> 01:34:31,166
 - Where are the riders from Snowborn?
 - None have come, my lord.
 
-925
-01:34:47,877 --> 01:34:50,000
+927
+01:34:48,310 --> 01:34:50,433
 Six thousand spears.
 
-926
-01:34:51,046 --> 01:34:53,039
+928
+01:34:51,419 --> 01:34:53,412
 Less than half of what I'd hoped for.
 
-927
-01:34:53,340 --> 01:34:56,709
+929
+01:34:53,780 --> 01:34:57,149
 Six thousand will not be enough
 to break the lines of Mordor.
 
-928
-01:34:59,471 --> 01:35:01,214
+930
+01:34:59,797 --> 01:35:01,540
 More will come.
 
-929
-01:35:01,598 --> 01:35:04,551
+931
+01:35:02,032 --> 01:35:04,926
 Every hour lost hastens Gondor's defeat.
 
-930
-01:35:04,725 --> 01:35:07,299
+932
+01:35:04,951 --> 01:35:07,525
 We have till dawn, then we must ride.
 
-931
-01:35:26,789 --> 01:35:29,114
+933
+01:35:27,102 --> 01:35:29,427
 The horses are restless...
 
-932
-01:35:29,292 --> 01:35:30,786
-and the men are quiet.
-
-933
-01:35:31,252 --> 01:35:34,370
-They grow nervous in the shadow of the mountain.
-
 934
-01:35:36,840 --> 01:35:38,713
-That road there...
+01:35:29,685 --> 01:35:31,179
+...and the men are quiet.
 
 935
-01:35:39,634 --> 01:35:41,711
-where does that lead?
+01:35:31,692 --> 01:35:34,810
+They grow nervous in the
+shadow of the mountain.
 
 936
-01:35:42,471 --> 01:35:46,303
+01:35:37,240 --> 01:35:39,113
+That road there...
+
+937
+01:35:39,974 --> 01:35:42,051
+...where does that lead?
+
+938
+01:35:42,830 --> 01:35:46,662
 It is the road to the Dimholt,
 the door under the mountain.
 
-937
-01:35:47,017 --> 01:35:50,017
+939
+01:35:47,376 --> 01:35:50,376
 None who venture there ever return.
 
-938
-01:35:51,228 --> 01:35:53,102
+940
+01:35:51,495 --> 01:35:53,369
 That mountain is evil.
 
-939
-01:36:16,045 --> 01:36:17,871
+941
+01:36:16,491 --> 01:36:18,317
 Aragorn.
 
-940
-01:36:18,630 --> 01:36:20,539
+942
+01:36:19,029 --> 01:36:20,938
 Let's find some food.
 
-941
-01:36:37,023 --> 01:36:38,434
+943
+01:36:37,403 --> 01:36:38,814
 There.
 
-942
-01:36:39,400 --> 01:36:42,401
+944
+01:36:39,893 --> 01:36:42,894
 A true esquire of Rohan.
 
-943
-01:36:46,032 --> 01:36:48,023
+945
+01:36:46,397 --> 01:36:48,388
 I'm ready.
 
-944
-01:36:49,618 --> 01:36:50,898
+946
+01:36:49,887 --> 01:36:51,167
 Sorry.
 
-945
-01:36:51,079 --> 01:36:53,319
+947
+01:36:51,192 --> 01:36:53,432
 It isn't all that dangerous.
 
-946
-01:36:53,831 --> 01:36:56,156
+948
+01:36:54,197 --> 01:36:56,522
 It's not even sharp.
 
-947
-01:36:56,834 --> 01:37:00,250
+949
+01:36:57,221 --> 01:37:00,637
 Well, that's no good. You won't
 kill many Orcs with a blunt blade.
 
-948
-01:37:00,421 --> 01:37:01,915
+950
+01:37:00,720 --> 01:37:02,214
 Come on.
 
-949
-01:37:06,091 --> 01:37:08,584
+951
+01:37:06,524 --> 01:37:09,017
 To the smithy. Go!
 
-950
-01:37:10,055 --> 01:37:12,593
+952
+01:37:10,572 --> 01:37:13,074
 You should not encourage him.
 
-951
-01:37:12,766 --> 01:37:15,221
+953
+01:37:13,099 --> 01:37:15,554
 You should not doubt him.
 
-952
-01:37:15,394 --> 01:37:18,678
-I do not doubt his heart, only the reach of his arm.
-
-953
-01:37:21,399 --> 01:37:22,976
-Why should Merry be left behind?
-
 954
-01:37:23,150 --> 01:37:25,772
-He has as much cause to go to war as you.
+01:37:15,607 --> 01:37:18,891
+I do not doubt his heart,
+only the reach of his arm.
 
 955
-01:37:27,947 --> 01:37:31,113
-Why can he not fight for those he loves?
+01:37:21,673 --> 01:37:25,946
+Why should Merry be left behind?
+He has as much cause to go to war as you.
 
 956
-01:37:34,369 --> 01:37:37,370
-You know as little of war as that Hobbit.
+01:37:28,287 --> 01:37:31,453
+Why can he not fight for those he loves?
 
 957
-01:37:38,623 --> 01:37:40,699
-When the fear takes him...
+01:37:34,689 --> 01:37:37,690
+You know as little of war as that Hobbit.
 
 958
-01:37:40,875 --> 01:37:45,918
-and the blood and the screams and
-the horror of battle take hold...
+01:37:39,002 --> 01:37:41,163
+When the fear takes him...
 
 959
-01:37:46,298 --> 01:37:48,455
-do you think he would stand and fight?
+01:37:41,195 --> 01:37:46,238
+...and the blood and the screams and
+the horror of battle take hold...
 
 960
-01:37:51,010 --> 01:37:52,635
-He would flee.
+01:37:46,725 --> 01:37:48,882
+...do you think he would stand and fight?
 
 961
-01:37:52,804 --> 01:37:54,843
-And he would be right to do so.
+01:37:51,323 --> 01:37:52,948
+He would flee.
 
 962
-01:37:57,058 --> 01:38:01,009
-War is the province of Men, Eowyn.
+01:37:53,090 --> 01:37:55,129
+And he would be right to do so.
 
 963
-01:38:36,679 --> 01:38:40,380
-I choose a mortal life.
+01:37:57,285 --> 01:38:01,236
+War is the province of Men, Eowyn.
 
 964
-01:38:43,311 --> 01:38:46,180
-I wish I could've seen him...
+01:38:36,972 --> 01:38:40,673
+I choose a mortal life.
 
 965
-01:38:47,314 --> 01:38:50,019
-one last time.
+01:38:43,664 --> 01:38:46,533
+I wish I could've seen him...
 
 966
-01:39:01,202 --> 01:39:02,613
-Sir?
+01:38:47,680 --> 01:38:50,385
+...one last time.
 
 967
-01:39:04,456 --> 01:39:07,029
-King Theoden awaits you, my lord.
+01:39:01,528 --> 01:39:02,939
+Sir?
 
 968
+01:39:04,783 --> 01:39:07,356
+King Theoden awaits you, my lord.
+
+969
 01:39:27,812 --> 01:39:29,769
 I take my leave.
 
-969
-01:39:44,411 --> 01:39:45,656
+970
+01:39:44,897 --> 01:39:46,142
 My lord Elrond.
 
-970
-01:39:46,246 --> 01:39:49,745
+971
+01:39:46,493 --> 01:39:49,992
 I come on behalf of one whom I love.
 
-971
-01:39:52,835 --> 01:39:54,828
+972
+01:39:53,195 --> 01:39:55,188
 Arwen is dying.
 
-972
-01:39:59,633 --> 01:40:03,678
+973
+01:39:59,980 --> 01:40:04,025
 She will not long survive the
 evil that now spreads from Mordor.
 
-973
-01:40:04,430 --> 01:40:07,799
+974
+01:40:04,729 --> 01:40:08,098
 The light of the Evenstar is failing.
 
-974
-01:40:07,975 --> 01:40:11,973
-As Sauron's power grows, her strength wanes.
-
 975
-01:40:12,146 --> 01:40:15,893
-Arwen's life is now tied to the fate of the Ring.
+01:40:08,339 --> 01:40:12,121
+As Sauron's power grows, 
+her strength wanes.
 
 976
-01:40:16,649 --> 01:40:19,223
-The Shadow is upon us, Aragorn.
+01:40:12,478 --> 01:40:16,225
+Arwen's life is now tied
+to the fate of the Ring.
 
 977
-01:40:19,612 --> 01:40:21,271
-The end has come.
+01:40:16,922 --> 01:40:19,496
+The Shadow is upon us, Aragorn.
 
 978
-01:40:21,656 --> 01:40:24,276
-It will not be our end, but his.
+01:40:19,932 --> 01:40:21,591
+The end has come.
 
 979
-01:40:25,033 --> 01:40:28,616
-You ride to war, but not to victory.
+01:40:22,029 --> 01:40:24,649
+It will not be our end, but his.
 
 980
-01:40:29,620 --> 01:40:33,285
-Sauron's armies march on Minas Tirith, this you know.
+01:40:25,379 --> 01:40:28,962
+You ride to war, but not to victory.
 
 981
-01:40:33,457 --> 01:40:37,871
+01:40:29,986 --> 01:40:33,761
+Sauron's armies march on
+Minas Tirith, this you know.
+
+982
+01:40:33,786 --> 01:40:38,200
 But in secret he sends another force
 which will attack from the river.
 
-982
-01:40:38,338 --> 01:40:41,754
-A fleet of Corsair ships sails from the south.
-
 983
-01:40:42,384 --> 01:40:44,459
-They'll be in the city in two days.
+01:40:38,751 --> 01:40:42,167
+A fleet of Corsair ships
+sails from the south.
 
 984
-01:40:44,968 --> 01:40:47,803
-You're outnumbered, Aragorn.
+01:40:42,804 --> 01:40:44,879
+They'll be in the city in two days.
 
 985
-01:40:48,513 --> 01:40:50,637
-You need more men.
+01:40:45,301 --> 01:40:48,136
+You're outnumbered, Aragorn.
 
 986
-01:40:51,016 --> 01:40:52,760
-There are none.
+01:40:48,812 --> 01:40:50,936
+You need more men.
 
 987
-01:40:54,520 --> 01:40:58,434
-There are those who dwell in the mountain.
+01:40:51,408 --> 01:40:53,152
+There are none.
 
 988
-01:41:07,448 --> 01:41:09,607
-Murderers...
+01:40:55,100 --> 01:40:59,014
+There are those who dwell in the mountain.
 
 989
-01:41:09,784 --> 01:41:11,196
-traitors.
+01:41:07,794 --> 01:41:09,953
+Murderers...
 
 990
-01:41:13,664 --> 01:41:15,821
-You would call upon them to fight?
+01:41:10,124 --> 01:41:11,536
+traitors.
 
 991
-01:41:15,998 --> 01:41:17,576
-They believe in nothing.
+01:41:13,997 --> 01:41:16,154
+You would call upon them to fight?
 
 992
-01:41:17,750 --> 01:41:19,873
-They answer to no one.
+01:41:16,293 --> 01:41:17,871
+They believe in nothing.
 
 993
-01:41:20,044 --> 01:41:23,128
-They will answer to the king of Gondor.
+01:41:18,243 --> 01:41:20,366
+They answer to no one.
 
 994
-01:41:30,262 --> 01:41:35,387
+01:41:20,391 --> 01:41:23,732
+They will answer to the king of Gondor.
+
+995
+01:41:30,662 --> 01:41:35,787
 Anduril, the Flame of the West,
 forged from the shards of Narsil.
 
-995
-01:41:49,698 --> 01:41:54,111
-Sauron will not have forgotten the Sword of Elendil.
-
 996
-01:42:08,174 --> 01:42:12,919
-The blade that was broken shall return to Minas Tirith.
+01:41:50,011 --> 01:41:54,424
+Sauron will not have forgotten 
+the Sword of Elendil.
 
 997
-01:42:13,096 --> 01:42:15,502
-The man who can wield the power of this sword...
+01:42:08,544 --> 01:42:13,071
+The blade that was broken
+shall return to Minas Tirith.
 
 998
-01:42:15,680 --> 01:42:19,547
-can summon to him an army more
-deadly than any that walks this earth.
+01:42:13,681 --> 01:42:16,005
+The man who can wield
+the power of this sword...
 
 999
-01:42:21,395 --> 01:42:23,553
-Put aside the Ranger.
+01:42:16,030 --> 01:42:19,897
+...can summon to him an army more
+deadly than any that walks this earth.
 
 1000
-01:42:23,731 --> 01:42:27,064
-Become who you were born to be.
+01:42:21,895 --> 01:42:23,867
+Put aside the Ranger.
 
 1001
-01:42:27,234 --> 01:42:29,226
-Take the Dimholt road.
+01:42:24,036 --> 01:42:27,007
+Become who you were born to be.
 
 1002
-01:42:33,161 --> 01:42:35,547
+01:42:27,581 --> 01:42:29,573
+Take the Dimholt road.
+
+1003
+01:42:33,253 --> 01:42:35,868
 [Sindarin] <i>Ónen i-Estel Edain.</i>
 [English] I gave hope to Men.
 
-1003
-01:42:39,294 --> 01:42:40,394
+1004
+01:42:39,227 --> 01:42:41,217
 [Sindarin] <i>Ú-chebin...</i>
 [English] I have kept...
 
-1004
-01:42:41,980 --> 01:42:43,195
+1005
+01:42:42,026 --> 01:42:44,161
 [Sindarin] <i>...Estel anim.</i>
 [English] ...no hope for me.
 
-1005
-01:42:55,261 --> 01:42:56,922
+1006
+01:42:55,707 --> 01:42:57,368
 Why are you doing this?
 
-1006
-01:42:57,388 --> 01:43:00,590
+1007
+01:42:57,807 --> 01:43:01,009
 The war lies to the east. You
 cannot leave on the eve of battle.
 
-1007
-01:43:03,018 --> 01:43:05,093
+1008
+01:43:03,498 --> 01:43:05,573
 You cannot abandon the men.
 
-1008
-01:43:06,396 --> 01:43:07,973
+1009
+01:43:06,718 --> 01:43:08,295
 Eowyn...
 
-1009
-01:43:08,147 --> 01:43:10,354
+1010
+01:43:08,493 --> 01:43:10,700
 We need you here.
 
-1010
-01:43:11,484 --> 01:43:13,358
+1011
+01:43:12,083 --> 01:43:13,957
 Why have you come?
 
-1011
-01:43:15,029 --> 01:43:16,986
+1012
+01:43:15,482 --> 01:43:17,439
 Do you not know?
 
-1012
-01:43:26,290 --> 01:43:29,291
-It is but a shadow and a thought that you love.
-
 1013
-01:43:33,213 --> 01:43:35,622
-I cannot give you what you seek.
+01:43:26,690 --> 01:43:29,691
+It is but a shadow and
+a thought that you love.
 
 1014
-01:43:49,146 --> 01:43:53,060
-I have wished you joy since first I saw you.
+01:43:33,573 --> 01:43:35,982
+I cannot give you what you seek.
 
 1015
-01:44:12,209 --> 01:44:14,497
-Just where do you think you're off to?
+01:43:49,405 --> 01:43:53,319
+I have wished you joy
+since first I saw you.
 
 1016
-01:44:14,669 --> 01:44:15,998
-Not this time.
+01:44:12,688 --> 01:44:14,976
+Just where do you think you're off to?
 
 1017
-01:44:16,171 --> 01:44:18,377
-This time you must stay, Gimli.
+01:44:15,122 --> 01:44:16,451
+Not this time.
 
 1018
-01:44:21,093 --> 01:44:23,928
+01:44:16,531 --> 01:44:18,737
+This time you must stay, Gimli.
+
+1019
+01:44:21,464 --> 01:44:24,299
 Have you learned nothing of
 the stubbornness of Dwarves?
 
-1019
-01:44:24,097 --> 01:44:27,760
+1020
+01:44:24,324 --> 01:44:26,069
 You might as well accept it.
+
+1021
+01:44:26,094 --> 01:44:28,322
 We're going with you, laddie.
 
-1020
-01:44:50,079 --> 01:44:52,237
+1022
+01:44:50,501 --> 01:44:52,543
 - What's happening?
 - Where is he going?
 
-1021
-01:44:52,581 --> 01:44:54,455
+1023
+01:44:52,980 --> 01:44:54,854
 Where's he going?
 
-1022
-01:44:57,044 --> 01:44:59,083
+1024
+01:44:57,584 --> 01:44:59,623
 I don't understand.
 
-1023
-01:45:03,509 --> 01:45:05,300
+1025
+01:45:03,903 --> 01:45:05,694
 Lord Aragorn!
 
-1024
-01:45:05,719 --> 01:45:08,423
+1026
+01:45:06,058 --> 01:45:08,762
 Why does he leave on the eve of battle?
 
-1025
-01:45:09,640 --> 01:45:11,715
+1027
+01:45:10,100 --> 01:45:12,405
 He leaves because there is no hope.
 
-1026
-01:45:12,391 --> 01:45:14,515
+1028
+01:45:12,744 --> 01:45:14,868
 He leaves because he must.
 
-1027
-01:45:14,685 --> 01:45:16,394
+1029
+01:45:15,035 --> 01:45:16,744
 Too few have come.
 
-1028
-01:45:16,563 --> 01:45:18,721
+1030
+01:45:16,829 --> 01:45:18,987
 We cannot defeat the armies of Mordor.
 
-1029
-01:45:21,234 --> 01:45:22,894
+1031
+01:45:21,594 --> 01:45:22,791
 No...
 
-1030
-01:45:23,319 --> 01:45:24,564
+1032
+01:45:23,705 --> 01:45:24,950
 we cannot.
 
-1031
-01:45:27,447 --> 01:45:31,232
-But we will meet them in battle nonetheless.
-
-1032
-01:45:45,673 --> 01:45:47,417
-I have left instruction.
-
 1033
-01:45:50,095 --> 01:45:53,345
-The people are to follow your rule in my stead.
+01:45:27,800 --> 01:45:31,585
+But we will meet them
+in battle nonetheless.
 
 1034
-01:45:59,937 --> 01:46:02,179
-Take up my seat in the Golden Hall.
+01:45:46,079 --> 01:45:47,823
+I have left instruction.
 
 1035
-01:46:03,441 --> 01:46:06,277
-Long may you defend Edoras...
+01:45:50,494 --> 01:45:53,744
+The people are to follow
+your rule in my stead.
 
 1036
-01:46:06,445 --> 01:46:08,770
-if the battle goes ill.
+01:46:00,316 --> 01:46:02,558
+Take up my seat in the Golden Hall.
 
 1037
-01:46:09,864 --> 01:46:13,279
-What other duty would you have me do, my lord?
+01:46:03,770 --> 01:46:06,328
+Long may you defend Edoras...
 
 1038
-01:46:15,494 --> 01:46:17,451
-Duty?
+01:46:06,811 --> 01:46:09,136
+...if the battle goes ill.
 
 1039
-01:46:19,623 --> 01:46:20,951
-No.
+01:46:10,317 --> 01:46:13,732
+What other duty would
+you have me do, my lord?
 
 1040
-01:46:29,257 --> 01:46:31,380
-I would have you smile again...
+01:46:15,973 --> 01:46:17,930
+Duty?
 
 1041
-01:46:34,804 --> 01:46:39,799
-not grieve for those whose time has come.
+01:46:20,002 --> 01:46:21,330
+No.
 
 1042
-01:46:44,647 --> 01:46:48,146
-You shall live to see these days renewed...
+01:46:29,650 --> 01:46:31,773
+I would have you smile again...
 
 1043
-01:46:52,488 --> 01:46:55,238
-and no more despair.
+01:46:35,197 --> 01:46:36,690
+...not grieve...
 
 1044
-01:47:01,455 --> 01:47:05,155
-What kind of army would linger in such a place?
+01:46:37,034 --> 01:46:40,198
+...for those whose time has come.
 
 1045
-01:47:05,334 --> 01:47:07,161
-One that is cursed.
+01:46:44,974 --> 01:46:48,473
+You shall live to see these days renewed...
 
 1046
-01:47:09,130 --> 01:47:11,666
-Long ago, the Men of the Mountains swore an oath...
+01:46:52,747 --> 01:46:55,497
+...and no more despair.
 
 1047
-01:47:12,089 --> 01:47:14,841
-to the last king of Gondor...
+01:47:01,809 --> 01:47:05,509
+What kind of army would
+linger in such a place?
 
 1048
-01:47:15,427 --> 01:47:17,004
-to come to his aid...
+01:47:05,701 --> 01:47:07,528
+One that is cursed.
 
 1049
-01:47:17,178 --> 01:47:18,886
-to fight.
+01:47:09,610 --> 01:47:12,146
+Long ago, the Men of the
+Mountains swore an oath...
 
 1050
-01:47:19,389 --> 01:47:21,547
-But when the time came...
+01:47:12,495 --> 01:47:15,247
+...to the last king of Gondor...
 
 1051
-01:47:22,184 --> 01:47:24,803
-when Gondor's need was dire...
+01:47:15,814 --> 01:47:17,391
+...to come to his aid...
 
 1052
-01:47:24,976 --> 01:47:26,850
-they fled...
+01:47:17,656 --> 01:47:19,364
+...to fight.
 
 1053
-01:47:27,020 --> 01:47:30,390
-vanishing into the darkness of the mountain.
+01:47:19,788 --> 01:47:21,946
+But when the time came...
 
 1054
-01:47:31,441 --> 01:47:33,767
-And so Isildur cursed them...
+01:47:22,611 --> 01:47:25,230
+...when Gondor's need was dire...
 
 1055
-01:47:35,321 --> 01:47:39,188
-never to rest until they had fulfilled their pledge.
+01:47:25,394 --> 01:47:27,401
+...they fled...
 
 1056
-01:47:43,495 --> 01:47:46,661
-Who shall call them from the grey twilight?
+01:47:27,426 --> 01:47:30,796
+...vanishing into the
+darkness of the mountain.
 
 1057
-01:47:47,123 --> 01:47:49,365
-The forgotten people.
+01:47:31,874 --> 01:47:34,200
+And so Isildur cursed them...
 
 1058
-01:47:49,542 --> 01:47:52,034
-The heir of him to whom the oath they swore.
+01:47:35,714 --> 01:47:37,374
+...never to rest...
 
 1059
-01:47:52,505 --> 01:47:54,377
-From the north shall he come.
+01:47:37,399 --> 01:47:40,494
+...until they had fulfilled their pledge.
 
 1060
-01:47:54,881 --> 01:47:56,540
-Need shall drive him.
+01:47:43,808 --> 01:47:46,974
+Who shall call them from the grey twilight?
 
 1061
-01:47:57,634 --> 01:48:01,132
-He shall pass the door to the Paths of the Dead.
+01:47:47,588 --> 01:47:49,830
+The forgotten people.
 
 1062
-01:48:19,613 --> 01:48:22,899
-The very warmth of my blood seems stolen away.
+01:47:49,908 --> 01:47:52,693
+The heir of him to whom
+the oath they swore.
 
 1063
-01:48:28,455 --> 01:48:30,412
-The way is shut.
+01:47:52,718 --> 01:47:54,590
+From the north shall he come.
 
 1064
-01:48:31,166 --> 01:48:33,123
-It was made by those who are dead.
+01:47:55,294 --> 01:47:56,953
+Need shall drive him.
 
 1065
-01:48:33,751 --> 01:48:35,993
-And the Dead keep it.
+01:47:58,026 --> 01:48:00,797
+He shall pass the door to 
+the Paths of the Dead.
 
 1066
-01:48:36,546 --> 01:48:38,088
-The way is shut.
+01:48:19,906 --> 01:48:23,192
+The very warmth of my
+blood seems stolen away.
 
 1067
-01:48:49,434 --> 01:48:50,928
-Brego!
+01:48:28,868 --> 01:48:30,825
+The way is shut.
 
 1068
-01:48:54,438 --> 01:48:57,142
-I do not fear death.
+01:48:31,618 --> 01:48:33,575
+It was made by those who are dead.
 
 1069
-01:49:09,452 --> 01:49:11,860
-Well, this is a thing unheard-of.
+01:48:34,172 --> 01:48:36,414
+And the Dead keep it.
 
 1070
-01:49:12,038 --> 01:49:16,700
-An Elf will go underground where a Dwarf dare not?
+01:48:36,999 --> 01:48:38,541
+The way is shut.
 
 1071
-01:49:16,877 --> 01:49:18,205
-Oh.
+01:48:49,807 --> 01:48:51,301
+Brego!
 
 1072
-01:49:18,378 --> 01:49:21,213
-Oh, I'd never hear the end of it.
+01:48:54,671 --> 01:48:57,375
+I do not fear death.
 
 1073
-01:49:36,229 --> 01:49:38,470
-We must ride light and swift.
+01:49:09,757 --> 01:49:12,165
+Well, this is a thing unheard-of.
 
 1074
-01:49:38,647 --> 01:49:40,390
-It is a long road ahead.
+01:49:12,455 --> 01:49:14,753
+An Elf will go underground
 
 1075
-01:49:40,565 --> 01:49:43,650
+01:49:14,778 --> 01:49:17,000
+where a Dwarf dare not?
+
+1076
+01:49:17,358 --> 01:49:18,686
+Oh.
+
+1077
+01:49:18,711 --> 01:49:21,546
+Oh, I'd never hear the end of it.
+
+1078
+01:49:36,649 --> 01:49:38,890
+We must ride light and swift.
+
+1079
+01:49:39,014 --> 01:49:40,757
+It is a long road ahead.
+
+1080
+01:49:41,137 --> 01:49:44,222
 And man and beast must reach the
 end with the strength to fight.
 
-1076
-01:49:49,157 --> 01:49:52,159
-Little Hobbits do not belong in war, Master Meriadoc.
-
-1077
-01:49:52,494 --> 01:49:54,486
-All my friends have gone to battle.
-
-1078
-01:49:54,662 --> 01:49:56,536
-I would be ashamed to be left behind.
-
-1079
-01:49:56,706 --> 01:49:58,829
-It is a three-day gallop to Minas Tirith.
-
-1080
-01:49:59,000 --> 01:50:01,372
-And none of my riders can bear you as a burden.
-
 1081
-01:50:02,378 --> 01:50:04,501
-I want to fight.
+01:49:49,542 --> 01:49:52,544
+Little Hobbits do not belong
+in war, Master Meriadoc.
 
 1082
-01:50:05,006 --> 01:50:06,998
-I will say no more.
+01:49:52,936 --> 01:49:54,928
+All my friends have gone to battle.
 
 1083
-01:50:23,815 --> 01:50:25,772
-Ride with me.
+01:49:54,953 --> 01:49:56,827
+I would be ashamed to be left behind.
 
 1084
-01:50:27,236 --> 01:50:28,646
-My lady.
+01:49:56,978 --> 01:49:59,101
+It is a three-day gallop to Minas Tirith.
 
 1085
-01:50:28,820 --> 01:50:31,192
-Form up! Move out!
+01:49:59,126 --> 01:50:01,498
+And none of my riders can 
+bear you as a burden.
 
 1086
-01:50:31,365 --> 01:50:34,568
-Form up! Move out!
+01:50:02,718 --> 01:50:04,841
+I want to fight.
 
 1087
-01:50:37,661 --> 01:50:38,859
-Ride!
+01:50:05,399 --> 01:50:07,391
+I will say no more.
 
 1088
-01:50:39,038 --> 01:50:41,992
-Ride now to Gondor!
+01:50:24,062 --> 01:50:26,019
+Ride with me.
 
 1089
-01:50:51,219 --> 01:50:52,819
-[Black Speech] <i> Katmuda! </i>
-[English]  Death to men!
+01:50:27,673 --> 01:50:29,083
+My lady.
 
 1090
-01:50:54,343 --> 01:50:55,643
-[Black Speech] <i> Katmuda! </i>
-[English]  Death to men!
+01:50:29,221 --> 01:50:31,593
+Form up! Move out!
 
 1091
-01:50:55,644 --> 01:50:56,244
-[Black Speech] <i> Gorosh! </i>
-[English]  Louder!
+01:50:31,712 --> 01:50:34,915
+Form up! Move out!
 
 1092
-01:50:56,245 --> 01:50:57,545
-[Black Speech] <i> Katmuda! </i>
-[English]  Death to men!
+01:50:38,114 --> 01:50:39,312
+Ride!
 
 1093
-01:50:57,546 --> 01:50:58,046
-[Black Speech] <i> Gorosh! </i>
-[English]  Louder!
+01:50:39,404 --> 01:50:42,358
+Ride now to Gondor!
 
 1094
-01:50:58,047 --> 01:50:59,347
+01:50:51,219 --> 01:50:53,299
 [Black Speech] <i> Katmuda! </i>
 [English]  Death to men!
 
 1095
-01:50:59,348 --> 01:51:00,848
+01:50:54,343 --> 01:50:55,643
+[Black Speech] <i> Katmuda! </i>
+[English]  Death to men!
+
+1096
+01:50:55,644 --> 01:50:56,244
+[Black Speech] <i> Gorosh! </i>
+[English]  Louder!
+
+1097
+01:50:56,245 --> 01:50:57,545
+[Black Speech] <i> Katmuda! </i>
+[English]  Death to men!
+
+1098
+01:50:57,546 --> 01:50:58,046
+[Black Speech] <i> Gorosh! </i>
+[English]  Louder!
+
+1099
+01:50:58,047 --> 01:50:59,347
+[Black Speech] <i> Katmuda! </i>
+[English]  Death to men!
+
+1100
+01:50:59,348 --> 01:51:01,317
 [Black Speech] <i> Gorosh chadar! </i>
 [English]  Loud enough!
 
-1096
-01:51:23,623 --> 01:51:25,366
+1101
+01:51:24,016 --> 01:51:25,759
 What is it?
 
-1097
-01:51:25,541 --> 01:51:27,083
+1102
+01:51:26,121 --> 01:51:27,663
 What do you see?
 
-1098
-01:51:27,334 --> 01:51:29,457
+1103
+01:51:27,774 --> 01:51:29,897
 I see shapes of men.
 
-1099
-01:51:32,131 --> 01:51:33,506
+1104
+01:51:32,477 --> 01:51:33,852
 And of horses.
 
-1100
-01:51:34,258 --> 01:51:35,456
+1105
+01:51:34,643 --> 01:51:35,841
 Where?
 
-1101
-01:51:35,634 --> 01:51:38,588
+1106
+01:51:35,866 --> 01:51:38,820
 Pale banners like shreds of cloud.
 
-1102
-01:51:41,015 --> 01:51:43,220
+1107
+01:51:41,421 --> 01:51:43,626
 Spears rise...
 
-1103
-01:51:43,850 --> 01:51:47,302
-like winter-thickets through a shroud of mist.
-
-1104
-01:51:48,563 --> 01:51:50,721
-The Dead are following.
-
-1105
-01:51:51,941 --> 01:51:53,436
-They have been summoned.
-
-1106
-01:51:54,111 --> 01:51:55,937
-The Dead?
-
-1107
-01:51:56,321 --> 01:51:58,029
-Summoned?
-
 1108
-01:51:58,448 --> 01:52:00,322
-I knew that.
+01:51:44,310 --> 01:51:47,762
+...like winter-thickets
+through a shroud of mist.
 
 1109
-01:52:03,661 --> 01:52:05,405
-Very good.
+01:51:48,889 --> 01:51:51,047
+The Dead are following.
 
 1110
-01:52:06,122 --> 01:52:08,197
-Very good! Legolas!
+01:51:52,320 --> 01:51:53,815
+They have been summoned.
 
 1111
-01:52:46,161 --> 01:52:47,571
-Do not look down.
+01:51:54,609 --> 01:51:56,435
+The Dead?
 
 1112
-01:53:40,171 --> 01:53:45,296
-Who enters my domain?
+01:51:56,533 --> 01:51:58,241
+Summoned?
 
 1113
-01:53:49,055 --> 01:53:51,259
-One who will have your allegiance.
+01:51:58,907 --> 01:52:00,781
+I knew that.
 
 1114
-01:53:54,224 --> 01:53:59,564
-The Dead do not suffer the living to pass.
+01:52:04,007 --> 01:52:05,751
+Very good.
 
 1115
-01:53:59,898 --> 01:54:02,567
-You will suffer me.
+01:52:06,468 --> 01:52:08,543
+Very good! Legolas!
 
 1116
-01:54:26,088 --> 01:54:29,459
-The way is shut.
+01:52:46,507 --> 01:52:47,917
+Do not look down.
 
 1117
-01:54:30,636 --> 01:54:35,095
-It was made by those who are dead.
+01:53:40,517 --> 01:53:45,642
+Who enters my domain?
 
 1118
-01:54:35,473 --> 01:54:39,636
-And the Dead keep it.
+01:53:49,428 --> 01:53:51,632
+One who will have your allegiance.
 
 1119
-01:54:48,778 --> 01:54:51,862
-The way is shut.
+01:53:54,533 --> 01:53:59,873
+The Dead do not suffer the living to pass.
 
 1120
-01:54:53,616 --> 01:54:56,237
-Now you must die.
+01:54:00,311 --> 01:54:02,980
+You will suffer me.
 
 1121
-01:55:00,122 --> 01:55:02,957
-I summon you to fulfill your oath.
+01:54:26,581 --> 01:54:29,952
+The way is shut.
 
 1122
-01:55:03,292 --> 01:55:08,249
-None but the king of Gondor may command me.
+01:54:30,989 --> 01:54:35,448
+It was made by those who are dead.
 
 1123
-01:55:13,844 --> 01:55:16,001
-That line was broken.
+01:54:35,912 --> 01:54:40,075
+And the Dead keep it.
 
 1124
-01:55:18,640 --> 01:55:20,845
-It has been remade.
+01:54:49,111 --> 01:54:52,195
+The way is shut.
 
 1125
-01:55:28,774 --> 01:55:30,317
-Fight for us...
+01:54:54,002 --> 01:54:56,623
+Now you must die.
 
 1126
-01:55:30,485 --> 01:55:33,023
-and regain your honor.
+01:55:00,401 --> 01:55:03,236
+I summon you to fulfill your oath.
 
 1127
-01:55:37,198 --> 01:55:38,527
-What say you?
+01:55:03,678 --> 01:55:08,635
+None but the king of Gondor may command me.
 
 1128
-01:55:50,753 --> 01:55:52,295
-What say you?
+01:55:14,370 --> 01:55:16,527
+That line was broken.
 
 1129
-01:55:53,047 --> 01:55:54,839
-You waste your time, Aragorn.
+01:55:19,173 --> 01:55:21,378
+It has been remade.
 
 1130
-01:55:55,008 --> 01:55:58,175
-They had no honor in life, they have none now in death.
+01:55:29,187 --> 01:55:30,730
+Fight for us...
 
 1131
-01:55:58,679 --> 01:56:01,170
-I am Isildur's heir.
+01:55:30,851 --> 01:55:33,389
+...and regain your honor.
 
 1132
-01:56:01,724 --> 01:56:03,679
-Fight for me...
-
-1133
-01:56:04,266 --> 01:56:07,849
-and I will hold your oaths fulfilled.
-
-1134
-01:56:11,774 --> 01:56:13,732
+01:55:37,591 --> 01:55:38,920
 What say you?
 
+1133
+01:55:51,199 --> 01:55:52,622
+What say you?
+
+1134
+01:55:53,510 --> 01:55:55,302
+You waste your time, Aragorn.
+
 1135
-01:56:21,658 --> 01:56:23,865
-You have my word!
+01:55:55,400 --> 01:55:58,567
+They had no honor in life,
+they have none now in death.
 
 1136
-01:56:24,160 --> 01:56:28,159
-Fight, and I will release you from this living death!
+01:55:59,085 --> 01:56:01,576
+I am Isildur's heir.
 
 1137
-01:56:29,625 --> 01:56:31,120
-What say you?!
+01:56:01,964 --> 01:56:03,919
+Fight for me...
 
 1138
-01:56:34,421 --> 01:56:37,375
-Stand, you traitors!
+01:56:04,879 --> 01:56:08,462
+and I will hold your oaths fulfilled.
 
 1139
-01:57:04,323 --> 01:57:05,355
-Out!
+01:56:12,234 --> 01:56:14,192
+What say you?
 
 1140
-01:57:26,721 --> 01:57:28,299
-Legolas!
+01:56:22,128 --> 01:56:24,335
+You have my word!
 
 1141
-01:57:29,433 --> 01:57:30,630
-Run!
+01:56:24,493 --> 01:56:28,492
+Fight, and I will release
+you from this living death!
 
 1142
-01:58:36,955 --> 01:58:39,030
-We fight.
+01:56:30,078 --> 01:56:31,573
+What say you?!
 
 1143
-01:58:49,383 --> 01:58:51,957
-Open the gate! Quick!
+01:56:34,688 --> 01:56:37,642
+Stand, you traitors!
 
 1144
-01:59:22,999 --> 01:59:24,992
-Quick! Hurry!
+01:57:04,596 --> 01:57:05,628
+Out!
 
 1145
-01:59:38,763 --> 01:59:40,388
-Faramir!
+01:57:26,786 --> 01:57:28,364
+Legolas!
 
 1146
-01:59:41,392 --> 01:59:44,642
-Say not that he has fallen.
+01:57:29,735 --> 01:57:30,932
+Run!
 
 1147
-01:59:45,813 --> 01:59:47,355
-They were outnumbered.
+01:58:37,222 --> 01:58:39,297
+We fight.
 
 1148
-01:59:47,772 --> 01:59:49,350
-None survived.
+01:58:50,029 --> 01:58:52,603
+Open the gate! Quick!
 
 1149
-01:59:50,066 --> 01:59:52,059
-Fear.
+01:59:23,405 --> 01:59:25,398
+Quick! Hurry!
 
 1150
-01:59:52,611 --> 01:59:55,814
-The city is rank with it.
+01:59:39,222 --> 01:59:40,847
+Faramir!
 
 1151
-01:59:58,158 --> 02:00:00,613
-Let us ease their pain.
+01:59:41,664 --> 01:59:44,914
+Say not that he has fallen.
 
 1152
-02:00:00,869 --> 02:00:02,612
-Release the prisoners.
+01:59:46,206 --> 01:59:47,748
+They were outnumbered.
 
 1153
-02:00:02,787 --> 02:00:04,745
-Catapults!
+01:59:48,205 --> 01:59:49,783
+None survived.
 
 1154
-02:00:18,093 --> 02:00:21,545
-My sons are spent.
+01:59:50,579 --> 01:59:52,572
+Fear.
 
 1155
-02:00:22,598 --> 02:00:25,515
-My line has ended.
+01:59:53,098 --> 01:59:56,301
+The city is rank with it.
 
 1156
-02:00:28,354 --> 02:00:29,765
-He's alive!
+01:59:58,504 --> 02:00:00,959
+Let us ease their pain.
 
 1157
-02:00:29,938 --> 02:00:33,104
-The House of Stewards has failed.
+02:00:01,329 --> 02:00:03,072
+Release the prisoners.
 
 1158
-02:00:33,274 --> 02:00:34,733
-He needs medicine, my lord.
+02:00:03,293 --> 02:00:05,251
+Catapults!
 
 1159
-02:00:35,778 --> 02:00:38,446
-My line has ended!
+02:00:18,599 --> 02:00:22,051
+My sons are spent.
 
 1160
-02:00:39,948 --> 02:00:41,941
-My lord!
+02:00:23,098 --> 02:00:26,015
+My line has ended.
 
 1161
-02:00:55,464 --> 02:00:57,290
-Rohan...
+02:00:28,835 --> 02:00:30,246
+He's alive!
 
 1162
-02:00:58,049 --> 02:01:00,455
-has deserted us.
+02:00:30,271 --> 02:00:33,437
+The House of Stewards has failed.
 
 1163
-02:01:14,897 --> 02:01:18,100
-Theoden's betrayed me.
+02:00:33,687 --> 02:00:35,146
+He needs medicine, my lord.
 
 1164
-02:01:29,246 --> 02:01:31,072
-Abandon your posts!
+02:00:36,278 --> 02:00:38,946
+My line has ended!
 
 1165
-02:01:32,123 --> 02:01:36,037
-Flee! Flee for your lives!
+02:00:40,467 --> 02:00:42,460
+My lord!
 
 1166
-02:01:46,178 --> 02:01:47,720
-Prepare for battle!
+02:00:56,010 --> 02:00:57,836
+Rohan...
 
 1167
-02:01:48,263 --> 02:01:51,429
-Hurry, men! To the wall! Defend the wall!
+02:00:58,548 --> 02:01:00,443
+...has deserted us.
 
 1168
-02:01:52,601 --> 02:01:54,558
-Over here!
+02:01:15,483 --> 02:01:18,086
+Theoden's betrayed me.
 
 1169
-02:01:55,312 --> 02:01:57,684
-Return to your posts!
+02:01:29,705 --> 02:01:31,531
+Abandon your posts!
 
 1170
-02:02:08,491 --> 02:02:11,112
-Send these foul beasts into the abyss.
+02:01:32,522 --> 02:01:36,436
+Flee! Flee for your lives!
 
 1171
+02:01:46,608 --> 02:01:48,131
+Prepare for battle!
+
+1172
+02:01:48,722 --> 02:01:51,888
+Hurry, men! To the wall! Defend the wall!
+
+1173
+02:01:53,087 --> 02:01:55,044
+Over here!
+
+1174
+02:01:55,725 --> 02:01:58,097
+Return to your posts!
+
+1175
+02:02:08,838 --> 02:02:11,459
+Send these foul beasts into the abyss.
+
+1176
 02:02:21,295 --> 02:02:22,754
 Stay where you are.
 
-1172
+1177
 02:02:39,729 --> 02:02:41,140
 We need more rubble!
 
-1173
+1178
 02:02:41,314 --> 02:02:43,188
 Watch out!
 
-1174
+1179
 02:02:43,358 --> 02:02:45,895
 Down to the lower levels. Quick!
 
-1175
+1180
 02:02:47,778 --> 02:02:49,320
 Double up, men!
 
-1176
-02:03:58,304 --> 02:04:01,305
-Hold them back! Do not give in to fear.
-
-1177
-02:04:01,808 --> 02:04:05,307
-Stand to your posts! Fight!
-
-1178
-02:04:45,975 --> 02:04:47,599
-Not at the towers!
-
-1179
-02:04:47,768 --> 02:04:50,769
-Aim for the trolls! Kill the trolls!
-
-1180
-02:04:51,522 --> 02:04:53,349
-Bring them down!
-
 1181
-02:05:28,473 --> 02:05:30,514
-Fight them back!
+02:03:58,747 --> 02:04:00,336
+Hold them back!
 
 1182
-02:05:30,685 --> 02:05:32,678
-Peregrin Took!
+02:04:00,361 --> 02:04:02,276
+Do not give in to fear.
 
 1183
-02:05:33,563 --> 02:05:36,729
-- Go back to the Citadel!
-- They'd called us out to fight.
+02:04:02,301 --> 02:04:03,550
+Stand to your posts!
 
 1184
-02:05:52,415 --> 02:05:54,787
-This is no place for a Hobbit.
+02:04:03,575 --> 02:04:06,320
+Fight!
 
 1185
-02:06:20,524 --> 02:06:21,984
-Guard of the Citadel, indeed.
+02:04:46,452 --> 02:04:48,076
+Not at the towers!
 
 1186
-02:06:22,611 --> 02:06:25,943
-Now, back, up the hill. Quickly. Quick!
+02:04:48,216 --> 02:04:51,217
+Aim for the trolls! Kill the trolls!
 
 1187
-02:06:37,290 --> 02:06:40,245
-What are you doing, you useless scum?!
+02:04:51,668 --> 02:04:53,495
+Bring them down!
 
 1188
-02:06:40,419 --> 02:06:42,376
-The door won't give. It's too strong.
+02:05:28,952 --> 02:05:30,993
+Fight them back!
 
 1189
-02:06:48,718 --> 02:06:51,125
-Get back there and smash it down.
+02:05:31,131 --> 02:05:33,124
+Peregrin Took!
 
 1190
-02:06:51,303 --> 02:06:53,296
-But nothing can breach it.
+02:05:33,816 --> 02:05:35,317
+Go back to the Citadel!
 
 1191
-02:06:56,224 --> 02:06:58,467
-Grond will breach it.
+02:05:35,342 --> 02:05:37,126
+They'd called us out to fight.
 
 1192
-02:07:01,897 --> 02:07:03,973
-Bring up the wolf's head.
+02:05:52,868 --> 02:05:55,240
+This is no place for a Hobbit.
 
 1193
-02:07:07,152 --> 02:07:12,490
-Grond! Grond! Grond! Grond!
+02:06:21,077 --> 02:06:22,852
+Guard of the Citadel, indeed.
 
 1194
-02:07:12,824 --> 02:07:16,657
-Grond! Grond! Grond!
+02:06:23,098 --> 02:06:26,430
+Now, back, up the hill. Quickly. Quick!
 
 1195
-02:07:18,580 --> 02:07:21,996
-Grond! Grond! Grond!
+02:06:37,693 --> 02:06:40,447
+What are you doing, you useless scum?!
 
 1196
-02:07:22,709 --> 02:07:26,373
-Grond! Grond! Grond!
+02:06:40,472 --> 02:06:42,429
+The door won't give. It's too strong.
 
 1197
-02:07:26,795 --> 02:07:30,959
-Grond! Grond! Grond!
+02:06:49,098 --> 02:06:51,505
+Get back there and smash it down.
 
 1198
-02:07:31,134 --> 02:07:34,835
+02:06:51,530 --> 02:06:53,523
+But nothing can breach it.
+
+1199
+02:06:56,570 --> 02:06:58,813
+Grond will breach it.
+
+1200
+02:07:02,243 --> 02:07:04,319
+Bring up the wolf's head.
+
+1201
+02:07:07,687 --> 02:07:12,799
+Grond! Grond! Grond! Grond!
+
+1202
+02:07:13,477 --> 02:07:17,310
+Grond! Grond! Grond!
+
+1203
+02:07:17,625 --> 02:07:21,041
+Grond! Grond! Grond!
+
+1204
+02:07:21,695 --> 02:07:25,359
+Grond! Grond! Grond!
+
+1205
+02:07:25,820 --> 02:07:29,984
+Grond! Grond! Grond!
+
+1206
+02:07:30,134 --> 02:07:35,991
 Grond! Grond! Grond!!
 
