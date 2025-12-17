@@ -149,4 +149,8 @@ Please know that you enjoying the movies with my subtitles is already a treat en
 However, if you wanted to help me battle my ADHD and give me some external motivation to finish the subtitles to 100 % quality, you can [buy me a coffee <3](https://ko-fi.com/zoowlcz)
 
 
+## 6) Acknowledgements and credits
+- Huge thanks to [Tenacius-p](https://github.com/Tenacius-p) for retiming the subtitles for the TwoDVD-BluRay release.
+
+
 
