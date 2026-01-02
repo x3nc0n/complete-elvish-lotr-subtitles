@@ -31,7 +31,7 @@ These Foreign-only subtitles  were created by <i>ZoowlCZ</i>.
 7
 01:25:27,779 --> 01:25:35,179
 {\an8} [Rohirric] ♫<i> ...his dryhtne dyrest and mæga deorost. </i>♫
-{\an8} [English] ♫ ...to his lord dearest and kinsmen most belover. ♫
+{\an8} [English] ♫ ...to his lord dearest and kinsmen most beloved. ♫
 
 8
 01:25:36,279 --> 01:25:38,879
